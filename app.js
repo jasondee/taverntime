@@ -11,7 +11,8 @@ var express     = require("express"),
     User        = require("./models/user"),
     seedDB      = require("./seeds");
 
-mongoose.connect("mongodb://localhost/taverntime");
+//mongoose.connect("mongodb://localhost/taverntime");
+mongoose.connect("mongodb://jason:041427jc@ds231991.mlab.com:31991/taverntime");
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"));
