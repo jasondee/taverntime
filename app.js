@@ -19,6 +19,7 @@ app.use(express.static(__dirname + "/public"));
 console.log(__dirname);
 app.use(methodOverride("_method"));
 app.use(flash());
+app.locals.moment = require("moment");
 //seedDB();
 
 // PASSPORT CONFIG
