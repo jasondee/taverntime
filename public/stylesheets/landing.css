@@ -40,22 +40,22 @@ body {
 }
 
 .slideshow li:nth-child(1) { 
-  background-image: url(https://cdn.pixabay.com/photo/2015/09/24/20/36/beer-barrel-956322_960_720.jpg) 
+  background-image: url(https://images.unsplash.com/photo-1469234496837-d0101f54be3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0470412405288dcf3a26cd3a325a82f8&auto=format&fit=crop&w=1584&q=80) 
 }
 .slideshow li:nth-child(2) { 
-  background-image: url(https://cdn.pixabay.com/photo/2017/07/24/21/35/beer-2536111_960_720.jpg);
+  background-image: url(https://images.unsplash.com/photo-1502819126416-d387f86d47a1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=09f8419d4dfe16155bb399f0e7ea2069&auto=format&fit=crop&w=1778&q=80);
   animation-delay: 10s; 
 }
 .slideshow li:nth-child(3) { 
-  background-image: url(https://cdn.pixabay.com/photo/2017/04/29/20/57/pub-2271549_960_720.jpg);
+  background-image: url(https://images.unsplash.com/photo-1469234496837-d0101f54be3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0470412405288dcf3a26cd3a325a82f8&auto=format&fit=crop&w=1584&q=80);
   animation-delay: 20s; 
 }
 .slideshow li:nth-child(4) { 
-  background-image: url(https://cdn.pixabay.com/photo/2017/04/29/20/59/pub-2271551_960_720.jpg);
+  background-image: url(https://images.unsplash.com/photo-1502819126416-d387f86d47a1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=09f8419d4dfe16155bb399f0e7ea2069&auto=format&fit=crop&w=1778&q=80);
   animation-delay: 30s; 
 }
 .slideshow li:nth-child(5) { 
-  background-image: url(https://cdn.pixabay.com/photo/2014/05/05/19/52/jause-338498_960_720.jpg);
+  background-image: url(https://images.unsplash.com/photo-1469234496837-d0101f54be3e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0470412405288dcf3a26cd3a325a82f8&auto=format&fit=crop&w=1584&q=80);
   animation-delay: 40s; 
 }
 
