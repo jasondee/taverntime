@@ -17,3 +17,7 @@
 #delete-form-comment {
     display: inline;
 }
+
+#login {
+    padding: 2em;
+}
